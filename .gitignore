@@ -1,0 +1,21 @@
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Generated
+models/
+reports/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Env
+.env
+.env.local
+
